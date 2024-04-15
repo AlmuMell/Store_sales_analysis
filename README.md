@@ -76,5 +76,6 @@ En general, el boxplot sugiere que la condición del producto es un factor impor
 ## Conclusión general
 En conclusión, el análisis de data science aplicado a la tienda de moda online en Brasil ha revelado patrones significativos y oportunidades de crecimiento.Hemos identificado las preferencias de los consumidores y las tendencias de compra, lo que permite una personalización más efectiva y una gestión de inventario optimizada maximizando ganancias.
 
-## Equipo
-![image](https://github.com/AlmuMell/Store_sales_analysis/assets/123112841/988d99ae-d462-420d-a180-b101af4ad47d)
+## Equipo de Trabajo
+![imagen](https://github.com/AlmuMell/Store_sales_analysis/assets/123112841/9fdab03e-1ef6-4536-97ed-0b9604e197eb)
+
