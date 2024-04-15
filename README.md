@@ -1,3 +1,4 @@
+![brazil](https://img.shields.io/badge/contributors-4-green)
 # Store Sale Analysis
 ![brazil](https://github.com/AlmuMell/Store_sales_analysis/assets/123112841/24b48361-b1d7-408f-8570-64cdd13f040b)
 
