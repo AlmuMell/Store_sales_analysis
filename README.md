@@ -74,7 +74,7 @@ En general, el boxplot sugiere que la condición del producto es un factor impor
 6. Optimizar la cadena de suministro y los procesos de entrega para reducir los costos y mejorar la experiencia del cliente, lo que podría traducirse en un aumento de las ventas.
 
 ## Conclusion general
-En conclusión, el análisis de data science aplicado a la tienda de moda online en Brasil ha revelado patrones significativos y oportunidades de crecimiento.Hemos identificado las preferencias de los consumidores y las tendencias de compra, lo que permite una personalización más efectiva y una gestión de inventario optimizada.
+En conclusión, el análisis de data science aplicado a la tienda de moda online en Brasil ha revelado patrones significativos y oportunidades de crecimiento.Hemos identificado las preferencias de los consumidores y las tendencias de compra, lo que permite una personalización más efectiva y una gestión de inventario optimizada maximizando ganancias.
 
 ## Equipo
 ![image](https://github.com/AlmuMell/Store_sales_analysis/assets/123112841/988d99ae-d462-420d-a180-b101af4ad47d)
