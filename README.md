@@ -77,6 +77,3 @@ En conclusión, el análisis de data science aplicado a la tienda de moda online
 
 ## Equipo
 ![image](https://github.com/AlmuMell/Store_sales_analysis/assets/123112841/988d99ae-d462-420d-a180-b101af4ad47d)
-
-
-https://img.shields.io/badge/contributors-4-green
