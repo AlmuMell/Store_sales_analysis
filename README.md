@@ -73,7 +73,7 @@ En general, el boxplot sugiere que la condición del producto es un factor impor
 5. Adaptar el inventario y las campañas de marketing a las preferencias y necesidades locales para mejorar la relevancia y el atractivo de la tienda para los consumidores de estas ciudades.
 6. Optimizar la cadena de suministro y los procesos de entrega para reducir los costos y mejorar la experiencia del cliente, lo que podría traducirse en un aumento de las ventas.
 
-## Conclusion general
+## Conclusión general
 En conclusión, el análisis de data science aplicado a la tienda de moda online en Brasil ha revelado patrones significativos y oportunidades de crecimiento.Hemos identificado las preferencias de los consumidores y las tendencias de compra, lo que permite una personalización más efectiva y una gestión de inventario optimizada maximizando ganancias.
 
 ## Equipo
